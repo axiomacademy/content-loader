@@ -1,0 +1,7 @@
+title: "Mathematical Thinking"
+description: "The law of big numbers and why we suck at calculating for extremely small and extremely large numbers."
+video_link: "https://www.youtube.com/embed/tN9Xl1AcSv8"
+prereqs:
+  - "Why we should all love statistics"
+postreqs:
+  - "Measures of central tendency"

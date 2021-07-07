@@ -1,0 +1,7 @@
+title: "Bayes (2)"   
+description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+video_link: "https://www.youtube.com/embed/51bLRF02b4w"
+prereqs:
+  - "Bayes (1)"
+postreqs:
+  - "How we're fooled by statistics"
